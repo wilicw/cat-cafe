@@ -1,0 +1,152 @@
+{
+  "parameters": {
+    "store_categories": [
+      {
+        "id": 0,
+        "name": "咖啡廳",
+        "icon": ""
+      },
+      {
+        "id": 2,
+        "name": "餐廳",
+        "icon": ""
+      }
+    ],
+    "food_categories": [
+      {
+        "id": 0,
+        "name": "飲料",
+        "icon": ""
+      },
+      {
+        "id": 2,
+        "name": "甜點",
+        "icon": ""
+      },
+      {
+        "id": 3,
+        "name": "簡餐",
+        "icon": ""
+      },
+      {
+        "id": 4,
+        "name": "酒",
+        "icon": ""
+      }
+    ],
+    "minimum_charge_categories": [
+      {
+        "id": 0,
+        "name": "",
+        "icon": ""
+      },
+      {
+        "id": 1,
+        "name": "餐點",
+        "icon": ""
+      },
+      {
+        "id": 2,
+        "name": "飲料",
+        "icon": ""
+      },
+      {
+        "id": 3,
+        "name": "單點品項",
+        "icon": ""
+      }
+    ],
+    "service_categories": [
+      {
+        "id": 0,
+        "name": "廁所",
+        "icon": ""
+      },
+      {
+        "id": 1,
+        "name": "插座",
+        "icon": ""
+      },
+      {
+        "id": 2,
+        "name": "寵物友善",
+        "icon": ""
+      }
+    ],
+    "cat_categories": [
+      {
+        "id": 0,
+        "name": "黑貓"
+      },
+      {
+        "id": 1,
+        "name": "三花貓"
+      },
+      {
+        "id": 2,
+        "name": "賓士貓"
+      },
+      {
+        "id": 3,
+        "name": "白貓"
+      },
+      {
+        "id": 4,
+        "name": "玳瑁貓"
+      },
+      {
+        "id": 5,
+        "name": "橘貓"
+      },
+      {
+        "id": 6,
+        "name": "橘白貓"
+      },
+      {
+        "id": 7,
+        "name": "灰貓"
+      },
+      {
+        "id": 8,
+        "name": "虎斑貓"
+      },
+      {
+        "id": 9,
+        "name": "白底虎斑貓"
+      },
+      {
+        "id": 10,
+        "name": "黑白貓"
+      },
+      {
+        "id": 11,
+        "name": "灰白貓"
+      }
+    ]
+  },
+  "list": [
+    {
+      "name": "朵朵嚐嚐貓咪中途咖啡廳",
+      "address": {
+        "zip": 106,
+        "street": "復興南路一段295巷13弄2號",
+        "floor": 1
+      },
+      "store_categories": 2,
+      "food_categories": [
+        0,
+        3
+      ],
+      "cats": [],
+      "minimum_charge_categories": [
+        {
+          "id": 3,
+          "value": 0
+        }
+      ],
+      "cover_image": "",
+      "menu": [],
+      "images": []
+    }
+  ]
+}
