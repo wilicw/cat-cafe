@@ -12,6 +12,7 @@ specifiers:
   react: ^18.2.0
   react-dom: ^18.2.0
   react-scripts: 5.0.1
+  tocas: ^4.0.4
   typescript: ^4.7.4
   web-vitals: ^2.1.4
 
@@ -27,6 +28,7 @@ dependencies:
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-scripts: 5.0.1_qtbnez4q7bzoc4eqybg3efzzxe
+  tocas: 4.0.4
   typescript: 4.7.4
   web-vitals: 2.1.4
 
@@ -9178,6 +9180,10 @@ packages:
     engines: {node: '>=8.0'}
     dependencies:
       is-number: 7.0.0
+    dev: false
+
+  /tocas/4.0.4:
+    resolution: {integrity: sha512-b65QM8UdQ3QNGgXgpsFjLA/0fRjXGbed6/MFwL+CAeDoeAlmXQ9xE+F2J4fmSyWWhdZBptHTN34xjotSmM4/uQ==}
     dev: false
 
   /toidentifier/1.0.1:
